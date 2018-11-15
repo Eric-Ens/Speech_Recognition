@@ -23,15 +23,25 @@ This fairly basic model performs quite well with an accuracy on the validation s
 
 Confusion Matrix:
 [[ 251    3    1    2    2    0    1    0    0    1    0]
+
  [   2  230    6    3    0    1    0    1    0   21    6]
+ 
  [   0    0  246    1    0    1    3    1    1    3    4]
+ 
  [   1   11    6  234    0    0    2    0    1    8    1]
+ 
  [   6    5    4    0  222    3    0    1    0    1    5]
+ 
  [   0    1    2    0    4  236    1    0    0    0   12]
+ 
  [   0    0    8    1    0    0  237    7    0    2    2]
+ 
  [   0    0   25    0    0    1    9  220    0    1    0]
+ 
  [   0    2   14    4    0    0    0    2  220    1    3]
+ 
  [   0   16    7    9    1    2    5    5    0  215    0]
+ 
  [  28   94   90  211   53  109  299   81   71  211 2974]]
  
  ![alt-text](/confusion.png)
